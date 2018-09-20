@@ -1,0 +1,16 @@
+body{
+  background-color: aquamarine
+}
+
+container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+button{
+  background-color:aquamarine;
+  color: rebeccapurple;
+  
+ 
+}
