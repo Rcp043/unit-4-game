@@ -1,0 +1,1 @@
+$("#onebtn").onclick(console.log)
