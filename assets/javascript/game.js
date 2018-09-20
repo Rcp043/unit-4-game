@@ -1,1 +1,1 @@
-$("#onebtn").onclick(console.log)
+alert("test")
