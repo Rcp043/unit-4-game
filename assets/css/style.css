@@ -1,16 +1,26 @@
-body{
-  background-color: aquamarine
+body {
+  background-color: aquamarine;
+
 }
 
-container{
+container {
   margin-left: auto;
   margin-right: auto;
   width: 1000px;
+
 }
 
-button{
-  background-color:aquamarine;
+button {
+  background-color: aquamarine;
   color: rebeccapurple;
-  
- 
+
+
+}
+
+p {
+  color: rebeccapurple;
+}
+
+span {
+  color: rebeccapurple;
 }
